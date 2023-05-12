@@ -1,0 +1,2494 @@
+[
+    {
+        "sent_id": "biomedical_sentence_0002",
+        "text": "Flere små studier har vist at den har effekt mot overflatiske og dype infeksjoner i operasjonsområdet , men en fersk randomisert fase 3-multisenterstudie viser klart motsatt effekt .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0012",
+        "text": "Dermed virker den mot sin hensikt , sier Bretthauer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0025",
+        "text": "Der heter det at antibiotikaprofylakse bør overveies ved høyrisiko tannbehandling de to første årene etter innsetting av leddprotese , men bare for spesielt infeksjonsdisponerte pasienter de neste to årene .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0037",
+        "text": "Årsaken til smertene var en uvanlig kirurgisk tilstand .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "u"
+                    ],
+                    [
+                        "28:29"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "en",
+                        "vanlig kirurgisk tilstand"
+                    ],
+                    [
+                        "25:27",
+                        "29:54"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0043",
+        "text": "I forbindelse med den aktuelle hendelsen anga han å ha hatt et par episoder med kortvarig smerte i høyre hemithorax .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0047",
+        "text": "Tarmlydene var normale .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0054",
+        "text": ": 21279 sjon .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0063",
+        "text": "Eldre pasienter har ofte atypiske kliniske funn .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "a"
+                    ],
+                    [
+                        "25:26"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "typiske kliniske funn"
+                    ],
+                    [
+                        "26:47"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0082",
+        "text": "Det ble sett betydelig avføring i colon og tynntarmsmeteorisme .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0090",
+        "text": "Belastningen på røntgenavdelinger er sterkt økende på grunn av at det i stadig økende grad bestilles avanserte røntgenundersøkelser .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0091",
+        "text": "Ved diagnostisk laparoskopi er det angitt at man kan stille en diagnose i 7099 % av tilfellene , og det er derfor en god metode for å stille diagnose raskt .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0096",
+        "text": "Ved innsetting av skop fant man anslagsvis 1 liter mørkt blod i bukhulen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0098",
+        "text": "I buken fant man en 15 cm stor cystisk oppfylning beliggende tarmnært i ileocøkalkrøset .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0102",
+        "text": "Gynekologiske lidelser som er assosiert med hemoperitoneum , er ruptur av ektopisk graviditet , ruptur av ovariecyste eller endometriose .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0114",
+        "text": "Det var normal ileocøkal slimhinne .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0118",
+        "text": "Preoperativt var det ikke mistanke om intraabdominal blødning .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "21:25"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Preoperativt var",
+                        "mistanke om intraabdominal blødning"
+                    ],
+                    [
+                        "0:16",
+                        "26:61"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "21:25"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "intraabdominal blødning"
+                    ],
+                    [
+                        "38:61"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "sent_id": "biomedical_sentence_0124",
+        "text": "Postoperativt fikk pasienten en pneumoni som ble behandlet med antibiotika .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0130",
+        "text": "Det var varierende kjernepleomorfi , mitosegrad 68 per synsfelt og områder med nekrose med tilliggende fersk og gammel blødning .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0141",
+        "text": "Ofte oppdages tumor tilfeldig ved undersøkelser utført av andre årsaker .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0150",
+        "text": "Ved tumorer < 2 cm og < 5 mitoser per synsfelt er risikoen for malignitet lav .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0154",
+        "text": "Ved høymalign sykdom ser man de fleste residivene innen to år .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0170",
+        "text": "Bløtvevssarkom i abdomen og bekken .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0176",
+        "text": "Diagnosen mistenkes oftest ikke før man påviser blod ved computertomografi .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "27:31"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Diagnosen mistenkes",
+                        "før man påviser blod ved computertomografi"
+                    ],
+                    [
+                        "0:19",
+                        "32:74"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0190",
+        "text": "gastrointestinal stromal tumor eller hemangiom , er sjeldne årsaker til spontan hemoperitoneum .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0193",
+        "text": "Av disse er antikoagulasjon med warfarin hyppigst , men abdominalblødning assosiert med bruk av warfarin gir oftest hematom i psoas- eller rectusmuskulaturen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0201",
+        "text": "Den kirurgiske behandlingen vil være avhengig av årsak til blødningen og kan dreie seg om alt fra omstikning av blødende kar , reseksjon av blødende organ eller tumor , arterierekonstruksjon eller i enkelte tilfeller pakking av bukhulen , eventuelt kombinert med angiografi og transarteriell embolisering .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0274",
+        "text": "Ved Universitetssykehuset Nord-Norge har det vært forsøkt ulike behandlingsalternativer for tilstanden basert på eksisterende litteratur .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0278",
+        "text": "Som supplerende behandling tilbys bekkenbunnsfysioterapi , psykolog og smerteklinikk avhengig av behov .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0283",
+        "text": "Vi møter flere kvinner enn menn med tilstanden .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0284",
+        "text": "Kvinners bekkenbunn har en mer kompleks anatomi , og figurer og anatomibeskrivelser i artikkelen tar derfor utgangspunkt i forholdene hos kvinner .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0301",
+        "text": "M. levator ani er normalt i konstant kontraksjon , og bidrar slik til at rectum , vagina og urinrøret er lukket ved å heve dem opp mot symfysis pubis .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0310",
+        "text": "Anorektalvinkelen vil da rettes ut og gir mulighet for passasje av avføring fra rectum til analkanalen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0311",
+        "text": "Den indre og ytre sfinkter er viktig for kontrollen av passasje av flytende avføring og gass som passerer på tross av at m. puborectalis er kontrahert .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0312",
+        "text": "Bekkenbunnsmuskulaturens funksjon Bekkenbunnsmuskulaturen støtter bekkenorganene blære , vagina og rectum , og deres funksjon er avgjørende for normalt fungerende vannlating , defekasjon og samleie .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0331",
+        "text": "Funksjonen er å støtte bekkenorganene .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0336",
+        "text": "Resultatet ble kroniske tømmingsvansker .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0345",
+        "text": "Blant pasienter med kronisk obstipasjon har man påvist diagnosen hos 2550 % .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0346",
+        "text": "Dette kan reflektere en overestimering som følge av høye falskt positive rater sett i enkelte studier .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0354",
+        "text": "Episodene varer fra timer til dager eller er konstante med krampeaktige forverringer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0361",
+        "text": "Tilstanden har en rekke ulike betegnelser , der levator ani syndrom er den mest brukte .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0380",
+        "text": "Resultatet blir et dysfunksjonelt tømmingsmønster der pasienten forsøker å presse ut avføringen ved hjelp av magemusklene , samtidig som de anale sfinkterene og bekkenbunnsmusklene kontraherer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0382",
+        "text": "Dette vil med tiden kunne føre til overaktiv bekkenbunn-syndrom .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0383",
+        "text": "Det er nylig beskrevet at syndromet kan ha sammenheng med utvikling av indre rektalt prolaps .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0391",
+        "text": "Nyere studier viser til MR-defekografi som en enda bedre egnet undersøkelsesmetode for å påvise patologiske forhold i bekkenbunnen , deriblant overaktiv bekkenbunn-syndrom .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0395",
+        "text": "Bekkenbunnselektromyografi , anorektal manometri og ballongdefekasjonstest er andre mulige undersøkelser .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0403",
+        "text": "Ved Universitetssykehuset Nord-Norge tilbys biofeedbacktrening i kombinasjon med aktiv bekkenbunnsfysioterapi .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0406",
+        "text": "For både biofeedbacktrening og sakralnervestimulering hersker det tvil om langtidseffekten .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0412",
+        "text": "Diagnostikk av tilstanden kan gjøres med relativt enkle midler , men krever kunnskap om tilstandens forskjellige symptomer og bekkenbunnens anatomi .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0420",
+        "text": "I stedet for at bekkenbunnen blir lavere , og anorektalvinkelen øker , blir bekkenbunnen lett elevert , og anorektalvinkelen er uforandret .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "u"
+                    ],
+                    [
+                        "128:129"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "anorektalvinkelen er",
+                        "forandret"
+                    ],
+                    [
+                        "107:127",
+                        "129:138"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0424",
+        "text": "Dis Colon inngrepet .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0426",
+        "text": "Ved senere behandlingsstart anbefales det at .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0433_0434_0435",
+        "text": "For hele gruppen er bedring i sykdomsfri overlevelse på 2—4 % som vil si circa 2 % bedring i overlevelse etter fem år .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "fri"
+                    ],
+                    [
+                        "37:40"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "sykdoms",
+                        "overlevelse"
+                    ],
+                    [
+                        "30:37",
+                        "41:52"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0440",
+        "text": "før eller under operasjonen og til pasienter .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0452",
+        "text": "dødelighet hos eldre og dermed redusert gevinst av behandlingen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0456",
+        "text": "Dette skyldes nok at de oftere sammenlikner med et liv uten noen behandling .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "uten"
+                    ],
+                    [
+                        "55:59"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "et liv",
+                        "noen behandling"
+                    ],
+                    [
+                        "48:54",
+                        "60:75"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0491",
+        "text": "De fleste residiver krever preoperativ bestråling .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0492",
+        "text": "Differensieringen postoperativ fibrose / residivcancer kompliserer diagnostikken , operabilitetsvurderingen , behovet for reseksjon av andre organer og den operative teknikk .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0494",
+        "text": "Radiumhospitalet har et av de største publiserte materialer , de fleste øvrige er små .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0495",
+        "text": "Variasjonen i resultater er betydelig både mht.",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0509",
+        "text": "Denne artikkelen presenterer forfatternes erfaringer med multimodal behandling for lokale residiver ved rectumcancer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0517",
+        "text": "Perifere lokale residiver med infiltrasjon i bekkenveggen forekommer hyppigst .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0518",
+        "text": "De fleste sitter mot den dorsale bekkenvegg på den største tilheftingsflaten for rectum .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0525",
+        "text": "Men det kan være vanskelig med preoperativ bildediagnostikk og mikroskopi av operasjonspreparatet å avgjøre om residivet utgår fra lymfeknuter eller fra annet etterlatt tumorvev .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0533",
+        "text": "Oversiktsartikkel Hovedbudskap â    Optimal behandling av lokalt residiv .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0539",
+        "text": "I flere materialer er latenstiden for lokalt residiv etter reseksjon kortere enn etter amputasjon .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0540",
+        "text": "Stadieinndeling Det finnes ingen god , universell gyldig stadieinndeling for lokale residiver ved endetarmskreft .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ingen"
+                    ],
+                    [
+                        "27:32"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "finnes",
+                        "god , universell gyldig stadieinndeling for lokale residiver ved endetarmskreft"
+                    ],
+                    [
+                        "20:26",
+                        "33:112"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0542",
+        "text": "God MR gir bedre muligheter , men problemet vil være å differensiere residiv og postoperativ fibrose .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0546",
+        "text": "Siden de fleste lokale residiver utvikler seg fra bekkenveggen , vil visuell undersøkelse i rectum og vagina sjelden gi tidlig diagnose .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0549",
+        "text": "Vår erfaring med cytologi er noe bedre enn nålebiopsi .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0553",
+        "text": "Ut fra erfaringer med stråling for primærsvulster , og tidligere resultater ved residivbehandling , vil de fleste avdelinger gi preoperativ strålebehandling ved residiv før operasjon .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0555",
+        "text": "Pasienter med lokalt residiv uten tidligere bekkenbestråling vil få fem ukers preoperativ strålebehandling , helst kombinert med kjemoterapi .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "uten"
+                    ],
+                    [
+                        "29:33"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Pasienter",
+                        "tidligere bekkenbestråling"
+                    ],
+                    [
+                        "0:9",
+                        "34:60"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": [
+            {
+                "Cue": [
+                    [
+                        "uten"
+                    ],
+                    [
+                        "29:33"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "tidligere bekkenbestråling"
+                    ],
+                    [
+                        "34:60"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "sent_id": "biomedical_sentence_0557",
+        "text": "Fire uker etter avsluttet behandling evalueres pasientene med henblikk .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0568",
+        "text": "Rebestråling vil gi flere alvorlige senskader .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0572",
+        "text": "Ved hyperfraksjonert behandling gjennomførte rundt 80 % av pasientene den planlagte behandlingen uten pauser .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "uten"
+                    ],
+                    [
+                        "97:101"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "pauser"
+                    ],
+                    [
+                        "102:108"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0573",
+        "text": "Akutte bivirkninger var moderate , og senbivirkninger hovedsakelig relatert til tynntarm .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0581",
+        "text": "Dette kan være en begrensende faktor for kirurgi i seg selv .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0598",
+        "text": "Lokaliserte residiver Rene anastomoseresidiver kan opereres direkte .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0611",
+        "text": "Erfaringsmessig er det ikke ofte infiltrasjon i prostata til tross for den korte avstanden mellom prostata og rectum .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "23:27"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "er",
+                        "ofte infiltrasjon i prostata"
+                    ],
+                    [
+                        "16:18",
+                        "28:56"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0622",
+        "text": "På samme grunnlag som ved anastomoseresidiv synes det derfor ofte rimelig å gi preoperativ bestråling , noe som også anbefales av de fleste andre grupper .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0625",
+        "text": "Skade av nervefascikler kranialt for S2-roten kan gi mye sekvele — fra S3 og kaudalt gir dette mindre problemer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0629",
+        "text": "hydroureter kan skyldes kreftinnvekst eller fibrose .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0643",
+        "text": "Dette er bedre enn ved makroskopisk resttumor , som igjen er lik overlevelsen etter bestråling alene , på rundt 5 % .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0645",
+        "text": "De fleste publikasjoner angir rundt 40 % lokale reresidiver etter utført R0reseksjon .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0658",
+        "text": "lekkasje fra urinveier eller fra tarm er oppgitt til 5—10 % .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0661",
+        "text": "Konklusjon Mikroskopisk radikal kirurgi av lokalt residiv gir en tydelig overlevelsesgevinst , omtrent tilsvarende operasjoner for primærsvulster med lokale lymfeknutemetastaser Etter vår erfaring vil også pasienter som har mikroskopisk resttumor kunne profittere på operasjon både ved overlevelse og ved lokal palliasjon i bekkenet .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0705",
+        "text": "Alle sykehus ville utrede et lokalt bekkenresidiv med magnetisk resonanstomografi .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0718",
+        "text": "For å få en mer hensiktsmessig kategorisering , ble svarene aggregert i to kategorier , alltid / ofte eller sjelden / aldri .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "aldri"
+                    ],
+                    [
+                        "118:123"
+                    ]
+                ],
+                "Scope": [
+                    [],
+                    []
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0724",
+        "text": "som regionsykehus , 16 som tidligere hadde status som sentralsykehus og 25 som tidligere hadde status som lokalsykehus .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0733",
+        "text": "Henvisningspraksis Når residiv uten tegn til fjernmetastaser ble diagnostisert , henviste 23 av 25 lokalsykehus .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "uten"
+                    ],
+                    [
+                        "31:35"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "residiv",
+                        "tegn til fjernmetastaser"
+                    ],
+                    [
+                        "23:30",
+                        "36:60"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0737",
+        "text": "27 3103 alltid til annet sykehus for behandling .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0740",
+        "text": "Type residiv Pasienter med ulike typer residiver ble beskrevet .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0744",
+        "text": "Pasienter med mer kompliserte residiver henviste to av sentralsykehusene alltid eller ofte videre .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0750",
+        "text": "Hvordan behandles de lokale residivene ?",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0755",
+        "text": "De mer kompliserte tilfellene henviste dette sykehuset til annet regionsykehus , men svarte at preoperativ strålebehandling sjelden burde gis .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0757_0758",
+        "text": "Seks av 46 sykehus mente at kirurgi av lokalt residiv sjelden eller aldri var aktuelt med samtidige inkurable fjernmetastaser .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "aldri"
+                    ],
+                    [
+                        "68:73"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kirurgi av lokalt residiv",
+                        "var aktuelt med samtidige inkurable fjernmetastaser"
+                    ],
+                    [
+                        "28:53",
+                        "74:125"
+                    ]
+                ],
+                "Affixal": false
+            },
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "100:102"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kurable fjernmetastaser"
+                    ],
+                    [
+                        "102:125"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0760",
+        "text": "17 sykehus henviste disse pasientene til høyere nivå .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0768",
+        "text": "Enighet om residivutredning Denne spørreundersøkelsen viser at sykehusene i Norge har nokså lik holdning til utredning og behandling av disse pasientene , og holdningene synes å være i tråd med internasjonal praksis .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0792",
+        "text": "Men ettersom det er de med mest avansert sykdom som bestråles , er det også en økende risiko for at residivpasienten i fremtiden er tidligere bestrålt .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0798",
+        "text": "Nå pågår også en studie ved Rikshospitalet av levertransplantasjon ved inoperable levermetastaser .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "71:73"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "operable levermetastaser"
+                    ],
+                    [
+                        "73:97"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0800",
+        "text": "Lokalisering og sentralisering av residivbehandling .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0802",
+        "text": "Det er sannsynlig at noen av disse pasientene er de samme , da lokalsykehusene henviser de fleste slike tilfeller videre .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0807",
+        "text": "Det nye Colorectalcancerregisteret arbeider nå systematisk med å kartlegge forekomsten og behandlingen av lokale residiver .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0810",
+        "text": "tabell 3 holdning til å utføre residivkirurgi om pasienten har andre inkurable metastaser Lokal residivkirurgi hvis inkurable metastaser ?",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "69:71"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "andre",
+                        "kurable metastaser"
+                    ],
+                    [
+                        "63:68",
+                        "71:89"
+                    ]
+                ],
+                "Affixal": true
+            },
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "116:118"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kurable metastaser"
+                    ],
+                    [
+                        "118:136"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0813",
+        "text": "Fortsatt behandler 8—11 sykehus de lette til moderate tilfellene av lokalt residiv av rectumcancer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0816",
+        "text": "Mange vil hevde at ytterligere sentralisering av denne behandlingen er nødvendig .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0836",
+        "text": "Det er gjort flere studier der man har utført fundoplikasjon hos pasienter med hiatushernie og jernmangelanemi .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0863",
+        "text": "Fremlegget har imidlertid ikke vunnet gehør ved de andre lærestedene .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "26:30"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Fremlegget har",
+                        "vunnet gehør ved de andre lærestedene"
+                    ],
+                    [
+                        "0:14",
+                        "31:68"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0873",
+        "text": "På lederplass i BMJ nylig ble intervju ved opptak til medisinstudiet beskrevet som et omstendelig , arbeidskrevende og kostbart lotteri som kun bør benyttes i forskningssammenheng .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0879",
+        "text": "Det ville kanskje være fint om man kunne screene for alle disse egenskapene .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0880",
+        "text": "Problemet er imidlertid at ingen metode er optimal .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ingen"
+                    ],
+                    [
+                        "27:32"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "metode er optimal"
+                    ],
+                    [
+                        "33:50"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0882",
+        "text": "si noe om hvordan det går på medisinstudiet .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0885",
+        "text": "Intervjuer , evnetester og personlighetstester , inkludert forsøk på vurdering av empatiske evner , er alle problematiske .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0893",
+        "text": "Det er ikke mange det gjelder , men de fleste av oss vet om noen .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "7:11"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "mange det gjelder",
+                        "er"
+                    ],
+                    [
+                        "12:29",
+                        "4:6"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0905",
+        "text": "Mange har et ansvar , og dermed pulveriseres det .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0909",
+        "text": "Opptak til profesjonsstudiet i medisin kan vi sikre at vi får inn de rette ?",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0918",
+        "text": "inneholdt spørsmål om spesialitetspreferanser og mulige motiver for disse .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0919",
+        "text": "Vi benytter grafikk og flernivåmodeller for å se på endringer i motivasjonsmønsteret .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0922",
+        "text": "Betydningen av prestisje som forklaringsvariabel for spesialitetspreferanse sank etter studiet og viktigheten av en helhetsvurdering av jobb og privatliv økte , også kontrollert for den økende kvinneandelen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0924",
+        "text": "Motivene bak valg av spesialitet er kompliserte og vanskelige å tolke det synes å være en kombinasjon av ambisjoner og prestisje på den ene side og hensynet til familie og livsstil på den annen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0927",
+        "text": "Mange leger opplever nok likevel spesialitetsvalget som noe tilfeldig .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0930",
+        "text": "Det er ingen klar sammenheng mellom antall spesialister på de forskjellige medisinske fagområdene og behovet .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ingen"
+                    ],
+                    [
+                        "7:12"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "klar sammenheng mellom antall spesialister på de forskjellige medisinske fagområdene og behovet",
+                        "er"
+                    ],
+                    [
+                        "13:108",
+                        "4:6"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0932",
+        "text": "På andre områder kan det tenkes at det er for mange spesialister , selv om dette er vanskeligere å påvise .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0939",
+        "text": "I det andre utvalget , legeutvalget , fikk alle de 631 som ble uteksaminert ved norske universiteter i 1993 og 1994 sitt første spørreskjema i det siste studieåret , med oppfølgingsskjemaer i turnustiden og i spesialiseringsperioden .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0941",
+        "text": "For å forenkle analysene ble de 53 fagområdene samlet i fem hovedgrupper : allmenn- og samfunnsmedisin , laboratoriefag , indremedisinske fag , kirurgiske fag og psykiatri .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0948",
+        "text": "Motivmålene er basert på en kombinasjon av eksplorerende faktoranalyser og skjønn .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0949",
+        "text": "Motivmålene ble studert ytterligere i studentutvalget ved hjelp av en multivariat flernivåmodell med gjentatte målinger for å se på effekten av alder , kjønn og spesialitet på eventuell endring i motivasjonsfaktorene over tid .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0951",
+        "text": "Valg av spesialitet Studentutvalget .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0962",
+        "text": "Motivmåleneaktiv , defensiv og helhetlig ble brukt som avhengige variabler i tre separate analyser , med kjønn , alder og spesialitetsgruppe i 2003 som uavhengige variabler .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "u"
+                    ],
+                    [
+                        "152:153"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "avhengige variabler"
+                    ],
+                    [
+                        "153:172"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0963",
+        "text": "Analysene viste at det var signifikante forskjeller mellom spesialitetsgruppene og ikke-spesialister og mellom kvinner og menn , og at betydningen av alle tre motivmål avtok over tid .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke-"
+                    ],
+                    [
+                        "83:88"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "spesialister"
+                    ],
+                    [
+                        "88:100"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0969",
+        "text": "Allmennmedisinerne skåret noe høyere enn ikke-spesialistene på defensiv , men forskjellen var ikke signifikant .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke-"
+                    ],
+                    [
+                        "41:46"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "spesialistene"
+                    ],
+                    [
+                        "46:59"
+                    ]
+                ],
+                "Affixal": true
+            },
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "94:98"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "forskjellen var",
+                        "signifikant"
+                    ],
+                    [
+                        "78:93",
+                        "99:110"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0974",
+        "text": "Dataene styrkes ved at den totale andelen vi har informasjon fra på minst ett tidspunkt , var 91 % i studentutvalget og 89 % i legeutvalget .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0989",
+        "text": "Denne tendensen kan muligens også knyttes til det økende antallet kvinnelige leger , som skårer signifikant lavere på motivområdet aktiv .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_0992",
+        "text": "Ut fra undersøkelsen kan vi ikke analysere mønstre eller prognoser for enkeltspesialiteter , ettersom tallene er for små .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "28:32"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Ut fra undersøkelsen kan vi",
+                        "analysere mønstre eller prognoser for enkeltspesialiteter"
+                    ],
+                    [
+                        "0:27",
+                        "33:90"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1005",
+        "text": "Det kan også tenkes at det økende antallet kvinnelige leger vil gi en forskyvning mot de mer omsorgspregede spesialitetene , slik det har skjedd i Finland .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1006__0",
+        "text": "Oppgitte interessekonflikter :",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1014",
+        "text": "Bruker leger for lang tid på å spesialisere seg ?",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1019",
+        "text": "Ortopedisk kirurgi mot år 2030 a future so bright you will need sunglasses ?",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1027",
+        "text": "Referanse er ikke spesialist .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "13:17"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Referanse er",
+                        "spesialist"
+                    ],
+                    [
+                        "0:12",
+                        "18:28"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1030",
+        "text": "Sykehusreformen i 2002 hadde som erklært målsetting klarere ansvarsfordeling , bedre tilgang for alle og mer effektiv bruk av tilgjengelige ressurser .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1043",
+        "text": "Helseforetakene har en erklært målsetting om klarere ansvarsfordeling , bedre tilgang for alle og , ikke minst , mer effektiv bruk av tilgjengelige ressurser .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1046",
+        "text": "Klinikerne kan til tider oppleve at de kommer i klemme mellom pasientenes krav om faglig optimal behandling og ledelsens og politikernes krav om kontroll med kostnadene .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1052",
+        "text": "Dessverre er det vanskelig å dokumentere slike hendelser .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1063",
+        "text": "Den som kritiserer , kan risikere å måtteskifte arbeidsplass .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1065__0",
+        "text": "Hvis vi gir de fire svaralternativene tallverdier fra 1 til 4",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1073",
+        "text": "pediatri , nevrologi og onkologi ) , kirurgiske fag , psykiatri og samfunnsmedisin .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1075",
+        "text": "Resultater Antallet respondenter i 2000 var 1 318 , dvs.",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1085",
+        "text": "Her var det også en viss variasjon mellom faggruppene , som spente fra 49 % av samfunnsmedisinerne til 70 % av kirurgene .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1101",
+        "text": "Et arbeidsmiljø der man er fiendtlig innstilt til nødvendig kritikk vil også i større grad , ifølge denne definisjonen , gjøre varslere av dem som ellers ville blitt oppfattet som konstruktive kritikere .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1104",
+        "text": "Kanskje er det fordi de har lengre erfaring med helsebyråkrati ogstadig nye direktører ?",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1115",
+        "text": "Her blir det viktig å skille mellom nødvendig politisk styring og lojalitetskrav som kan true pasientsikkerheten og faglig og etisk standard .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1129",
+        "text": "b ) Den som kritiserer sykehuset , risikerer sanksjoner fra den administrative ledelsen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1144",
+        "text": "Flere studier rapporterer en prevalens på omkring 2 % for den voksne befolkningen generelt .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1146",
+        "text": "Den hyppigste årsaken til anal inkontinens hos kvinner er perineale rifter ved fødsel .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "31:33"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kontinens"
+                    ],
+                    [
+                        "33:42"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1147",
+        "text": "Dette skjer ved 0,56 % av alle vaginale fødsler , og 4060 % av disse kvinnene vil utvikle inkontinens for tarminnhold .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "90:92"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kontinens"
+                    ],
+                    [
+                        "92:101"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1148",
+        "text": "I 2003 var rupturraten i Norge rundt 4 % .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1159",
+        "text": "I denne artikkelen gir vi en oversikt over utredning av anal inkontinens .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "61:63"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kontinens"
+                    ],
+                    [
+                        "63:72"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1172",
+        "text": "Dette muliggjør evaluering av behandlingseffekt , og utveksling av resultater mellom institusjoner blir lettere og bedre .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1175",
+        "text": "De to mest brukte og Wexner ’ s Score tar hensyn til frekvens og type inkontinens , grad av livsstilsendring og bruk av truseinnlegg .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "in"
+                    ],
+                    [
+                        "70:72"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kontinens"
+                    ],
+                    [
+                        "72:81"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1208",
+        "text": "Med dette kan man avlese hviletrykk , kniptrykk , sfinkterlengde , lengde av høytrykkssone og eventuell asymmetri .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "a"
+                    ],
+                    [
+                        "104:105"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "symmetri"
+                    ],
+                    [
+                        "105:113"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1209",
+        "text": "Hviletrykk gjenspeiler funksjonen for indre sfinkter , mens kniptrykk representerer ytre sfinkter .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1212",
+        "text": "I en studie angis normalt hviletrykk til 35 mm Hg eller høyere og maksimalt kniptrykk til 140 mm Hg eller høyere .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1213",
+        "text": "Det er vanskelig å tolke resultatene , målingene vil påvirkes av målesystem , måleteknikk og trykkene vil påvirkes av kjønn og alder .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1215",
+        "text": "Undersøkelsen gir en god kartlegging av trykkforholdene i bekkenbunnen , bl.a.",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1216",
+        "text": "viser den godt pasientens voluntære knipeevne .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1220",
+        "text": "Kanskje har den større nytte ved diagnostikk av høytrykks analfissurer .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1223",
+        "text": "En enklere metode er å plassere en ballong i rectum tilkoblet en vanlig sprøyte , hvor ballongen kan fylles og simulerer tarminnhold .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1224",
+        "text": "Rectum må være tømt for å unngå feilmåling .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1225",
+        "text": "Ballongen fylles sakte med saltvann , 10 ml per 5 sek , trinnvis .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1232",
+        "text": "Måleutstyret monteres på fingeren utenpå en hanske , slik at man har en stimulerende elektrode fremst og en opptakselektrode rundt basis av fingeren .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1246",
+        "text": "Oppgitte interessekonflikter : Barthold Vonen og Stig Norderval opplyser å ha mottatt reisestøtte fra Medtronic .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1267",
+        "text": "Flere ble operert for gallesteinssykdom ved Sykehuset Asker og Bærum i siste periode enn i første .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1268",
+        "text": "Andelen operert på akutt indikasjon var lavere i siste periode , samtidig som det var færre som hadde gjenomgått pankreatitt , kolangitt eller kolecystitt .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1287",
+        "text": "Pasienter inkludert i siste periode fikk paracetamol , ketorolak , deksametason og ondansetron gitt intravenøst som smertelindrende og antiemetisk behandling samt ytterligere smertelindring med paracetamol eller paracetamol / kodein etter behov .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1290",
+        "text": "Pasientene ble funnet ved søk på prosedyrekodersamt ved kontroll mot manuell og elektronisk operasjonsprotokoll .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1291__1",
+        "text": "Operasjonstider og liggetider er redusert",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1291__2",
+        "text": "Forekomsten av per- og postoperative komplikasjoner er uendret",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "u"
+                    ],
+                    [
+                        "55:56"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Forekomsten av per- og postoperative komplikasjoner er",
+                        "endret"
+                    ],
+                    [
+                        "0:54",
+                        "56:62"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1300",
+        "text": "Det ble videre observert en økt andel pasienter med høyere preoperativ risikovurdering evaluert etter American Society of Anesthesiology-klasse i siste periode versus første .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1319",
+        "text": "peritonitt i et bilde av kardiopulmonal svikt .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1332",
+        "text": "Dette er i samsvar med konverteringsraten som fremkommer i landsregisteret for kolecystektomi for samme periode .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1335",
+        "text": "Dette betyr at det brukes mindre ressurser per pasient til denne typen behandling nå enn tidligere .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1354",
+        "text": "Økende gjennomsnittsalder i befolkningen skulle tilsi at flere mennesker lever med gallesteiner , men alderssammensetningen i vårt operasjonsmateriale passer ikke med dette som forklaringsmodell for det økte antall kolecystektomier .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "158:162"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "alderssammensetningen i vårt operasjonsmateriale passer",
+                        "med dette som forklaringsmodell for det økte antall kolecystektomier"
+                    ],
+                    [
+                        "102:157",
+                        "163:231"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1372",
+        "text": "1267Medisinsk nytt NYHETER Mindre tarmkreft ved trisomi 21?1267 Noen studier tyder på at det å ha tre kopier av kromosom 21 reduserer risikoen for å få kreft .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1390",
+        "text": "Nukleolene ble fjernet fra oocytter hos gris og mus ved mikrokirurgi .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "fjernet"
+                    ],
+                    [
+                        "15:22"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Nukleolene"
+                    ],
+                    [
+                        "0:10"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1395",
+        "text": "Forskerne viser på en elegant måte at molekylkompleksene som organiserer selve forkjernene i zygoten , kun stammer fra egget , sier professor Arne Sunde ved Fertilitetsseksjonen , St. Olavs Hospital .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1404",
+        "text": "Men det er fortsatt usikkert om screening er årsaken til den store forskjellen , konkluderer forfatterne .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "u"
+                    ],
+                    [
+                        "20:21"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "sikkert om screening er årsaken til den store forskjellen",
+                        "er"
+                    ],
+                    [
+                        "21:78",
+                        "8:10"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1411",
+        "text": "Den kanadiske forskningsgruppen fant også at dersom rottene ble fôret med en fettrik diett over tid , ble denne tilbakemeldingstjenesten fra tarm til hjerne redusert etter circa",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1412",
+        "text": "tre dager , og sensitiviteten for insulin ble redusert .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1413",
+        "text": "Multivitaminer forebygger ikke katarakt Daglig tilskudd av en multivitamin- og mineralpille har ingen virkning på utvikling av synstap som følge av katarakt .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "26:30"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Multivitaminer forebygger",
+                        "katarakt"
+                    ],
+                    [
+                        "0:25",
+                        "31:39"
+                    ]
+                ],
+                "Affixal": false
+            },
+            {
+                "Cue": [
+                    [
+                        "ingen"
+                    ],
+                    [
+                        "96:101"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "virkning på utvikling av synstap som følge av katarakt",
+                        "Daglig tilskudd av en multivitamin- og mineralpille har"
+                    ],
+                    [
+                        "102:156",
+                        "40:95"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1417",
+        "text": "Deltakerne var 5575 år og hadde ingen eller kun begynnende katarakt .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ingen"
+                    ],
+                    [
+                        "32:37"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Deltakerne",
+                        "hadde",
+                        "katarakt"
+                    ],
+                    [
+                        "0:10",
+                        "26:31",
+                        "59:67"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": [
+            {
+                "Cue": [
+                    [
+                        "ingen"
+                    ],
+                    [
+                        "32:37"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "katarakt"
+                    ],
+                    [
+                        "59:67"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "sent_id": "biomedical_sentence_1428",
+        "text": "Den optimale metoden for å påvise spermier hos menn med Klinefelters syndrom innebærer bruk av mikrokirurgisk teknikk .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1433",
+        "text": "Ved dette syndromet foreligger vanligvis testikulær azoospermi , som betyr at det ikke er noen produksjon av spermier i testiklene eller at produksjonen er så liten at det ikke finnes spermier i ejakulatet .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "172:176"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "finnes spermier i ejakulatet"
+                    ],
+                    [
+                        "177:205"
+                    ]
+                ],
+                "Affixal": false
+            },
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "82:86"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "er noen produksjon av spermier i testiklene"
+                    ],
+                    [
+                        "87:130"
+                    ]
+                ],
+                "Affixal": false
+            },
+            {
+                "Cue": [
+                    [
+                        "a"
+                    ],
+                    [
+                        "52:53"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "zoospermi"
+                    ],
+                    [
+                        "53:62"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "82:86"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "produksjon av spermier i testiklene"
+                    ],
+                    [
+                        "95:130"
+                    ]
+                ]
+            },
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "172:176"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "spermier i ejakulatet"
+                    ],
+                    [
+                        "184:205"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "sent_id": "biomedical_sentence_1445",
+        "text": "Rådet konkluderte med at syndromet ikke kan oppfattes som en alvorlig funksjonshemning , og at det ikke finnes grunnlag for å nekte denne pasientgruppen fertilitetsbehandling .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "35:39"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "syndromet",
+                        "kan oppfattes som en alvorlig funksjonshemning"
+                    ],
+                    [
+                        "25:34",
+                        "40:86"
+                    ]
+                ],
+                "Affixal": false
+            },
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "99:103"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "finnes grunnlag for å nekte denne pasientgruppen fertilitetsbehandling"
+                    ],
+                    [
+                        "104:174"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1454",
+        "text": "Redusert skjeggvekst og sekundær kroppsbehåring , gynekomasti og små testikler utgjør de vanligste kliniske funnene .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1455__2",
+        "text": "Bruk av mikroskop ved testikulær spermieekstraksjon øker sjansen for at man finner spermier",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1463",
+        "text": "Samtidig er det viktig at risikoen for kromosomavvik og misdannelser ved en eventuell graviditet diskuteres .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1467",
+        "text": "De små testiklene ved Klinefelters syndrom representerer imidlertid en kirurgisk utfordring .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1471",
+        "text": "Ved mikroskopi kan man lete seg frem til tubuli med normalstor eller tilnærmet normalstor diameter .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1475",
+        "text": "Ikke sjelden finner man tilstrekkelig med spermier til at de kan fryses ned for å benyttes ved den kommende behandlingen .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "Ikke"
+                    ],
+                    [
+                        "0:4"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "sjelden finner man tilstrekkelig med spermier til at de kan fryses ned for å benyttes ved den kommende behandlingen"
+                    ],
+                    [
+                        "5:120"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": [
+            {
+                "Cue": [
+                    [
+                        "Ikke"
+                    ],
+                    [
+                        "0:4"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "spermier"
+                    ],
+                    [
+                        "42:50"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "sent_id": "biomedical_sentence_1479",
+        "text": "I stedet velger man å gjøre operasjonen for første gang i forbindelse med egguthentingen .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1481",
+        "text": "I de fleste av disse tilfellene er det på forhånd avklart om det kan benyttes spermier fra en sæddonor eller ikke , dersom man ikke påviser spermier .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "127:131"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "man",
+                        "påviser spermier"
+                    ],
+                    [
+                        "123:126",
+                        "132:148"
+                    ]
+                ],
+                "Affixal": false
+            },
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "109:113"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "kan benyttes spermier fra en sæddonor"
+                    ],
+                    [
+                        "65:102"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "127:131"
+                    ]
+                ],
+                "Focus": [
+                    [
+                        "spermier"
+                    ],
+                    [
+                        "140:148"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "sent_id": "biomedical_sentence_1485",
+        "text": "Diskusjon Ved Klinefelters syndrom skjer det en degenerasjon av testikkeltubuli .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1489",
+        "text": "Ettersom en del av disse mennene har fokal spermatogenese og følgelig kan bli genetiske fedre , har man satset mye på å påvise kliniske og biologiske faktorer som skulle kunne bekrefte spermieproduksjon uten at man behøvde å foreta kirurgiske inngrep .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "uten"
+                    ],
+                    [
+                        "203:207"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "at man behøvde å foreta kirurgiske inngrep"
+                    ],
+                    [
+                        "208:250"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1492",
+        "text": "Resultat fra visse studier tyder imidlertid på at sjansen for å påvise spermier hos disse mennene reduseres med mannens alder .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1494",
+        "text": "Siden eksogen testosterontilførsel hemmer spermatogenesen , bør denne behandlingen seponeres minst fire måneder før testikulær spermieekstraksjon utføres .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1509",
+        "text": "Tallmaterialet er imidlertid begrenset .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1542",
+        "text": "Hos etnisk norske var de respektive tallene 48 % , 5 % og 45 % .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1560",
+        "text": "Hos mange var sykdommen ikke erkjent .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "24:28"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "var sykdommen",
+                        "erkjent"
+                    ],
+                    [
+                        "10:23",
+                        "29:36"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1575",
+        "text": "Kvinnene ble registrert i forskjellige faser av svangerskapet , de med kjent type 1- og type 2-diabetes ble inkludert fra circa",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1576",
+        "text": "De med svangerskapsdiabetes kom fra 20. svangerskapsuke eller senere .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1583",
+        "text": "Kroppsmasseindeks ble beregnet ut fra vekten ved første svangerskapskontroll .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1586",
+        "text": "Diabetestype og resultatet av svangerskapet ble analysert med frekvensanalyser og krysstabeller .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1588",
+        "text": "Vi undersøkte også førstegangsfødende og flergangsfødende hver for seg .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1596",
+        "text": "Også hos etnisk norske var det noen med svangerskapsdiabetes som hadde varig diabetes etter fødsel .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1619",
+        "text": "Kvinnene fra Asia / Afrika hadde en høy forekomst av type 2-diabetes .",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1623",
+        "text": "De kjente risikofaktorene for diabetes type 2 som f.eks.",
+        "negations": [],
+        "focus_relations": []
+    },
+    {
+        "sent_id": "biomedical_sentence_1625",
+        "text": "Diabetes og svangerskapsutfall Flere studier viser at type 2-diabetes kan medføre samme risiko for uheldig svangerskapsutfall som type 1-diabetes .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "u"
+                    ],
+                    [
+                        "99:100"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "heldig svangerskapsutfall"
+                    ],
+                    [
+                        "100:125"
+                    ]
+                ],
+                "Affixal": true
+            }
+        ],
+        "focus_relations": []
+    }
+]
