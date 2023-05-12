@@ -12,3 +12,34 @@ The annotation is based on [these guidelines](https://github.com/ltgoslo/norec_n
 
 Some additional assumptions have been made. These are described in Chapter 5 of my master's thesis. (The link will be posted when my thesis is made publicly accessible.)
 
+## Data format
+The dataset is provided in JSON format:
+
+    {
+        "sent_id": "biomedical_sentence_2326",
+        "text": "Resultater som avklarer nytte av dette behandlingsprinsippet foreligger imidlertid ikke .",
+        "negations": [
+            {
+                "Cue": [
+                    [
+                        "ikke"
+                    ],
+                    [
+                        "83:87"
+                    ]
+                ],
+                "Scope": [
+                    [
+                        "Resultater som avklarer nytte av dette behandlingsprinsippet foreligger"
+                    ],
+                    [
+                        "0:71"
+                    ]
+                ],
+                "Affixal": false
+            }
+        ],
+        "focus_relations": []
+    }
+
+The [NoReC_neg repo](https://github.com/ltgoslo/norec_neg/tree/main#json-format) provides an explanation of the JSON format. In our dataset, each sentence has a list "focus_relations" as well. If non-empty, it has the same structure as the "negations" list, with "Cue" and "Focus" corresponding to "Cue" and "Scope", where "Focus" denotes a term annotated as negated in the original dataset. 
