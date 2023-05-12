@@ -42,4 +42,22 @@ The dataset is provided in JSON format:
         "focus_relations": []
     }
 
-The [NoReC_neg repo](https://github.com/ltgoslo/norec_neg/tree/main#json-format) provides an explanation of the JSON format. In our dataset, each sentence has a list "focus_relations" as well. If non-empty, it has the same structure as the "negations" list, with "Cue" and "Focus" corresponding to "Cue" and "Scope", where "Focus" denotes a term annotated as negated in the original dataset. 
+We render the description of the JSON format provided in the [NoReC_neg repo](https://github.com/ltgoslo/norec_neg/tree/main#json-format):
+
+"Each sentence has a dictionary with the following keys and values:
+
+- 'sent_id': unique NoReC identifier for document + paragraph + sentence which lines up with the identifiers from the document and sentence-level NoReC data
+- 'text': raw text
+- 'negations': list of all negations (dictionaries) in the sentence
+
+Additionally, each negation in a sentence is a dictionary with the following keys and values:
+
+- 'Cue': a list of text and character offsets for the negation cues
+- 'Scope': a list of text and character offsets for the negation scopes
+- 'Affixal': (True, False). Indicating whether the cue is affixal (prefix,suffix) or not.
+
+Note that a single sentence may contain several annotated negations. All negations must contain at least one cue, but it is possible for a negation to be without scope. These cases are mostly short comments with references to earlier sentences. Both cues and scopes can be multiword and discontinuous.
+"
+
+
+**Note**: In NorMed_neg, each sentence has a list "focus_relations" as well. If non-empty, it has the same structure as the "negations" list, with "Cue" and "Focus" corresponding to "Cue" and "Scope", where "Focus" denotes a term annotated as negated in the original dataset. 

@@ -1,0 +1,3 @@
+T1	Cue 204 208	uten
+T2	Scope 163 178;209 231	yngre pasienter vesentlig komorbiditet
+R1	Negates Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T1	Cue 59 63	ikke
+T2	Scope 0 58;64 126	Reseksjon av lymfeknuter langs iliaca internakarene inngår i konseptet total mesorektal reseksjon som er standard i Norge
+R1	Negates Arg1:T1 Arg2:T2	

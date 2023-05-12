@@ -1,0 +1,3 @@
+T1	Cue 19 24	ingen
+T2	Scope 0 11;25 90	Studien gir støtte til bruk av denne type tilskudd for barn med Downs syndrom
+R1	Negates Arg1:T1 Arg2:T2	

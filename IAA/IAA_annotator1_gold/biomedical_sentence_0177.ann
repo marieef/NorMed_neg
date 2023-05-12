@@ -1,0 +1,4 @@
+T1	Cue 23 24	u
+A1	Affixal T1
+T2	Scope 24 30	ventet
+R1	Negates Arg1:T1 Arg2:T2	

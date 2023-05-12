@@ -1,0 +1,4 @@
+T1	Cue 17 18	u
+A1	Affixal T1
+T2	Scope 18 42	oppdaget type 2-diabetes
+R1	Negates Arg1:T1 Arg2:T2	

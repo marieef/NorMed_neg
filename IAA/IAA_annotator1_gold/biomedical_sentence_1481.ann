@@ -1,0 +1,6 @@
+T2	Scope 123 126;132 148	man påviser spermier
+T3	Cue 127 131	ikke
+R1	Negates Arg1:T3 Arg2:T2	
+T4	Cue 109 113	ikke
+T5	Scope 65 102	kan benyttes spermier fra en sæddonor
+R3	Negates Arg1:T4 Arg2:T5	

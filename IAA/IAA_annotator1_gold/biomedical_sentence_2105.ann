@@ -1,0 +1,4 @@
+T1	Cue 205 206	u
+A1	Affixal T1
+T2	Scope 135 204;206 210	nytteverdien av kjemoterapi i forbindelse med leverreseksjon har vært viss
+R1	Negates Arg1:T1 Arg2:T2	

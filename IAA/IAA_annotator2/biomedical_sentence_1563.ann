@@ -1,0 +1,3 @@
+T1	Cue 17 18	u
+T2	Scope 18 42	oppdaget type 2-diabetes
+R1	Negates Arg1:T1 Arg2:T2	

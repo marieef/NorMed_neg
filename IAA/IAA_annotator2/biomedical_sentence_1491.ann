@@ -1,0 +1,6 @@
+T1	Cue 41 45	ikke
+T2	Cue 46 54	utelukke
+T3	Scope 37 40;55 89	man at det finnes fokal spermatogenese
+R1	Negates Arg1:T2 Arg2:T3	
+T4	Scope 37 40;46 89	man utelukke at det finnes fokal spermatogenese
+R2	Negates Arg1:T1 Arg2:T4	

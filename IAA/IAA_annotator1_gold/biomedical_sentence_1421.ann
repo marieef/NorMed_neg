@@ -1,0 +1,4 @@
+T1	Cue 98 102	ikke
+A1	Affixal T1
+T2	Scope 102 130	mosaikk Klinefelters syndrom
+R1	Negates Arg1:T1 Arg2:T2	

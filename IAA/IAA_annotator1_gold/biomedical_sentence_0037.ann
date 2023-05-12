@@ -1,0 +1,4 @@
+T1	Scope 25 27;29 54	en vanlig kirurgisk tilstand
+T2	Cue 28 29	u
+A1	Affixal T2
+R1	Negates Arg1:T2 Arg2:T1	

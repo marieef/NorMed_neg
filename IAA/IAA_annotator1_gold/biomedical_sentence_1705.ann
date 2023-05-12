@@ -1,0 +1,10 @@
+T1	Cue 22 26	ikke
+T2	Scope 27 103	er grunnlag for å fjerne symptomløse , tilfeldig påviste Meckels divertikler
+R1	Negates Arg1:T1 Arg2:T2	
+T3	Cue 45 51	fjerne
+T4	Scope 52 103	symptomløse , tilfeldig påviste Meckels divertikler
+R2	Negates Arg1:T3 Arg2:T4	
+T5	Cue 59 63	løse
+A1	Affixal T5
+T6	Scope 52 59;84 103	symptom Meckels divertikler
+R3	Negates Arg1:T5 Arg2:T6	

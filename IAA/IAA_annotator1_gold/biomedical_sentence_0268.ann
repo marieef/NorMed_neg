@@ -1,0 +1,4 @@
+T1	Cue 25 27	in
+A1	Affixal T1
+T2	Scope 27 36	kontinens
+R1	Negates Arg1:T1 Arg2:T2	

@@ -1,0 +1,3 @@
+T2	Cue 40 49	utelukkes
+T1	Scope 5 39;50 68	lever , milt eller indre genitalia som blødningsfokus
+R1	Negates Arg1:T2 Arg2:T1	

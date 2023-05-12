@@ -1,0 +1,6 @@
+T1	Cue 85 89	ikke
+T2	Scope 78 84;90 97	passer for meg
+R1	Negates Arg1:T1 Arg2:T2	
+T3	Cue 101 108	utelatt
+T4	Scope 64 100	de som svarte passer ikke for meg er
+R2	Negates Arg1:T3 Arg2:T4	
