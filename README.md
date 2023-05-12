@@ -7,10 +7,13 @@ The original dataset is [The Norwegian GastroSurgery Biomedical Negation Corpus]
 
 English sentences and duplicate sentences have been removed from the original dataset, and sentence splitting errors in negated sentences have been corrected manually. We have annotated the dataset according to a different annotation scheme. This is described below.
 
-## Annotation guidelines
+## Annotation
 The annotation is based on [these guidelines](https://github.com/ltgoslo/norec_neg/blob/main/annotation_guidelines/guidelines_neg.md), which were used in the annotation of the NoReC_neg dataset, see [Negation in Norwegian: an annotated dataset](https://aclanthology.org/2021.nodalida-main.30) (Mæhlum et al., NoDaLiDa 2021).
 
 Some additional assumptions have been made. These are described in Chapter 5 of my master's thesis. (The link will be posted when my thesis is made publicly accessible.)
+
+We used the annotation tool Brat (see [brat: a Web-based Tool for NLP-Assisted Text Annotation](https://aclanthology.org/E12-2021) (Stenetorp et al., EACL 2012)) and provide the config files. 
+We also provide the code and data used for computation of inter-annotator agreement.
 
 ## Data format
 The dataset is provided in JSON format:
