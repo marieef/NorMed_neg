@@ -16,24 +16,24 @@ Some additional assumptions have been made. These are described in Chapter 5 of 
 The dataset is provided in JSON format:
 
     {
-        "sent_id": "biomedical_sentence_2326",
-        "text": "Resultater som avklarer nytte av dette behandlingsprinsippet foreligger imidlertid ikke .",
+        "sent_id": "biomedical_sentence_1601",
+        "text": "Forskjellen i bruk av keisersnitt mellom gruppene vedvarte da førstegangsfødende ble analysert separat , mens forskjellene i bruk av tang- og vakuumforløsning forsvant .",
         "negations": [
             {
                 "Cue": [
                     [
-                        "ikke"
+                        "forsvant"
                     ],
                     [
-                        "83:87"
+                        "159:167"
                     ]
                 ],
                 "Scope": [
                     [
-                        "Resultater som avklarer nytte av dette behandlingsprinsippet foreligger"
+                        "forskjellene i bruk av tang- og vakuumforløsning"
                     ],
                     [
-                        "0:71"
+                        "110:158"
                     ]
                 ],
                 "Affixal": false
