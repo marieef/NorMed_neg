@@ -5,15 +5,15 @@ This is the repository for the NorMed_neg dataset: a Norwegian dataset of biomed
 ## Original dataset
 The original dataset is [The Norwegian GastroSurgery Biomedical Negation Corpus](https://github.com/DebaratiSJ/NegEx-on-Norwegian-biomedical-text/blob/main/Gold%20standard%20biomedical%20corpus/Norwegian%20GastroSurgery%20Biomedical%20Negation%20Corpus.txt). It was created as part of a master's thesis at Stockholm University: [Building and evaluating the NegEx negation detection system for Norwegian biomedical text](https://daisy.dsv.su.se/fil/visa?id=233579) (Sadhukhan, 2021).
 
-English sentences and duplicate sentences have been removed from the original dataset, and sentence splitting errors in negated sentences have been corrected manually. We have annotated the dataset according to a different annotation scheme. This is described below.
+English sentences and duplicate sentences have been removed from the original dataset, and sentence splitting errors in negated sentences have been corrected manually. The dataset has been annotated according to a different annotation scheme, which is described below.
 
 ## Annotation
 The annotation is based on [these guidelines](https://github.com/ltgoslo/norec_neg/blob/main/annotation_guidelines/guidelines_neg.md), which were used in the annotation of the NoReC_neg dataset, see [Negation in Norwegian: an annotated dataset](https://aclanthology.org/2021.nodalida-main.30) (Mæhlum et al., NoDaLiDa 2021).
 
 Some additional assumptions have been made. These are described in Chapter 5 of my master's thesis. (The link will be posted when my thesis is made publicly accessible.)
 
-We used the annotation tool Brat (see [brat: a Web-based Tool for NLP-Assisted Text Annotation](https://aclanthology.org/E12-2021) (Stenetorp et al., EACL 2012)) and provide the config files. 
-We also provide the code and data used for computation of inter-annotator agreement.
+Brat (see [brat: a Web-based Tool for NLP-Assisted Text Annotation](https://aclanthology.org/E12-2021) (Stenetorp et al., EACL 2012)) was used as the annotation tool, and the config files are provided. 
+The code and data used for computation of inter-annotator agreement are also included.
 
 ## Data format
 The dataset is provided in JSON format:
@@ -45,7 +45,7 @@ The dataset is provided in JSON format:
         "focus_relations": []
     }
 
-We render the description of the JSON format provided in the [NoReC_neg repo](https://github.com/ltgoslo/norec_neg/tree/main#json-format):
+The following description of the JSON format is provided in the [NoReC_neg repo](https://github.com/ltgoslo/norec_neg/tree/main#json-format):
 
 "Each sentence has a dictionary with the following keys and values:
 
@@ -59,8 +59,7 @@ Additionally, each negation in a sentence is a dictionary with the following key
 - 'Scope': a list of text and character offsets for the negation scopes
 - 'Affixal': (True, False). Indicating whether the cue is affixal (prefix,suffix) or not.
 
-Note that a single sentence may contain several annotated negations. All negations must contain at least one cue, but it is possible for a negation to be without scope. These cases are mostly short comments with references to earlier sentences. Both cues and scopes can be multiword and discontinuous.
-"
+Note that a single sentence may contain several annotated negations. All negations must contain at least one cue, but it is possible for a negation to be without scope. These cases are mostly short comments with references to earlier sentences. Both cues and scopes can be multiword and discontinuous."
 
 
 **Note**: In NorMed_neg, each sentence has a list "focus_relations" as well. If non-empty, it has the same structure as the "negations" list, with "Cue" and "Focus" corresponding to "Cue" and "Scope", where "Focus" denotes a term annotated as negated in the original dataset. 
